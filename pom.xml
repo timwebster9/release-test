@@ -22,4 +22,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+  <scm>
+    <connection>scm:git:git@github.com:timwebster9/release-test.git</connection>
+    <developerConnection>scm:git:git@github.com:timwebster9/release-test.git</developerConnection>
+    <url>https://github.com/SonarSource/sonar-pmd</url>
+    <tag>HEAD</tag>
+  </scm>
+
 </project>
