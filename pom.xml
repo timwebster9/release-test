@@ -33,14 +33,14 @@
     <distributionManagement>
         <repository>
             <uniqueVersion>false</uniqueVersion>
-            <id>mars-releases</id>
+            <id>mars</id>
             <name>Releases</name>
             <url>http://mars:8081/repository/maven-releases</url>
             <layout>default</layout>
         </repository>
         <snapshotRepository>
             <uniqueVersion>true</uniqueVersion>
-            <id>mars-snapshots</id>
+            <id>mars</id>
             <name>Snapshots</name>
             <url>http://mars:8081/repository/maven-snapshots</url>
             <layout>legacy</layout>
